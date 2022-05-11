@@ -2,3 +2,10 @@ h1 {
     text-align: center;
     color: cornflowerblue;
 }
+img {
+    width:350px; 
+    height:250px;
+}
+.col-sm-6{
+    width: 400px;
+}
